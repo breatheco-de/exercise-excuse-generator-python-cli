@@ -2,6 +2,7 @@
 	"title" : "The Excuse Generator CLI (python)",
 	"slug" : "excuse-generator-python-cli",
 	"status": "draft",
+	"preview": "https://github.com/breatheco-de/exercise-excuse-generator-python-cli/blob/master/preview.gif",
 	"duration" : 4,
     "difficulty": "beginner",
 	"description" : "Disneyland for procrastinators. This excuse generator in python takes no more than 20 lines of code and can save you for the rest of your life!",
