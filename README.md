@@ -4,7 +4,7 @@ Disneyland for procrastinators and lazy people.
 
 This project is ideal to are avoiding someone annoying, it takes no more than 20 lines of code and it can save you for the rest of your life!
 
-![this exact same picture](https://github.com/breatheco-de/exercise-excuse-generator-python-cli/blob/master/preview.gif)
+![this exact same picture](https://github.com/breatheco-de/exercise-excuse-generator-python-cli/blob/master/preview.gif?raw=true)
 
 ## The Goal
 
