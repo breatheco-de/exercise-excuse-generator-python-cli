@@ -29,7 +29,7 @@ The idea is to generate each part of the sentence randomly to come up with great
 ```python
 excuse = 'The dog eat my homework when I finished'
 ```
-3. Using javascript, create a function that generates and returns a random excuse with the following structure:
+3. Using python, create a function that generates and returns a random excuse with the following structure:
 ```python
 who = ['the dog','my granma','his turtle','my bird']
 what = ['eat','pissed','crushed','broked']
