@@ -22,6 +22,23 @@ How can we generate an excuse? How are sentences build?
 
 The idea is to generate each part of the sentence randomly to come up with great excuses!
 
+## 🌱  How to start this project
+
+Do not clone this repository.
+
+1. The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) on your local computer or gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
+b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
+
+2. Run the app by typing on the terminal:
+
+```bash
+$ python3 app.py
+```
+
+💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
+
 ## Hint
 
 1. Create a `app.py` file with one excuse hard-coded in one variable.
