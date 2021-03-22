@@ -18,7 +18,7 @@ Please create a python script  that generates an excuse each time it is runned.
 
 How can we generate an excuse? How are sentences build?
 
-![Excuse generator explanation](https://github.com/breatheco-de/projects/blob/master/p/javascript/beginner/excuse-generator/explanation.gif?raw=true)
+![Excuse generator explanation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/explanation.gif?raw=true)
 
 The idea is to generate each part of the sentence randomly to come up with great excuses!
 
