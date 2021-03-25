@@ -37,7 +37,7 @@ b) If working locally type the following command from your command line: `git cl
 $ python3 app.py
 ```
 
-💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 ## Hint
 
@@ -61,7 +61,9 @@ when = ['before the class','right in time','when I finished','during my lunch','
 Python.
 
 ## Fundamentals
+
 This exercise covers the following fundamentals:
+
 1. Running python files.
 2. How to work with Lists (arrays).
 3. Generating random numbers.
