@@ -1,6 +1,6 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Generador de excusas CLI (en python)
 
-Dineylandia para procrastinadora y "relajada"
+Disneylandia para procrastinadores y personas "muy relajadas"
 
 Este proyecto es ideal para evitar a alguien molestoso, ¡no toma más de 20 líneas de código y puede salvarte por el resto de tu vida!
 
