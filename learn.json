@@ -11,5 +11,7 @@
 		{ "badge": "identator", "points": 6 },
 		{ "badge": "abc", "points": 5 },
 		{ "badge": "functional-developer", "points": 5 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
