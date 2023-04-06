@@ -1,4 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Generador de excusas CLI (en python)
+<!--hide-->
+# Generador de excusas CLI (en python)
+<!--endhide-->
 
 Disneylandia para procrastinadores y personas "muy relajadas"
 
@@ -8,17 +10,17 @@ Este proyecto es ideal para evitar a alguien molestoso, ¡no toma más de 20 lí
 
 ## Objetivo
 
-Queríamos un proyecto que usara muy poco Python pero aún con una aplicación muy divertida, el generador de excusas o exuse generator toma 20 líneas de código, es fácil de entender y es el primer proyecto perfecto para cualquier desarrollador principiante.
+Queríamos un proyecto que usara muy poco Python, pero aún con una aplicación muy divertida, el generador de excusas o exuse generator toma 20 líneas de código, es fácil de entender y es el primer proyecto perfecto para cualquier desarrollador principiante.
 
 ## Instrucciones
 
-Cree una script de Python que genere una excusa cada vez que se ejecute.
+Cree un script de Python que genere una excusa cada vez que se ejecute.
 
 ## Primero arma una estrategia con compañeros
 
 ¿Cómo podemos generar una excusa? ¿Cómo se construye una oración?
 
-![Explicación del generadoe de excusas](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/explanation.gif?raw=true)
+![Explicación del generador de excusas](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/explanation.gif?raw=true)
 
 ¡La idea es generar cada parte de la oración al azar para encontrar excelentes excusas!
 
@@ -50,14 +52,14 @@ $ python3 app.py
 ```python
 excuse = 'The dog eat my homework when I finished'
 ```
-3. Usando python, crea una función que genere y devuelva unaa excusa aleatoria con la siguiente estructura:
+3. Usando python, crea una función que genere y devuelva una excusa aleatoria con la siguiente estructura:
 ```python
 who = ['the dog','my granma','his turtle','my bird']
 what = ['eat','pissed','crushed','broked']
 when = ['before the class','right in time','when I finished','during my lunch','while I was praying']
 ```
-4. Para crear una excusa consistente tienes que concatenar un item por cada array en el orden correcto.
-5. Imprim.e la excusa en la consola usando la función `print`
+4. Para crear una excusa consistente tienes que concatenar un ítem por cada array en el orden correcto.
+5. Imprime la excusa en la consola usando la función `print`
 
 
 ## Tecnologías
@@ -72,4 +74,4 @@ Este ejercicio cubre los siguientes fundamentos:
 2. Cómo trabajar con listas (arrays).
 3. Generar números aleatorios
 4. Concatenar strings
-5.Usar funciones (un poco).
+5. Usar funciones (un poco).

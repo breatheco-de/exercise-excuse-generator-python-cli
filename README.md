@@ -1,8 +1,10 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Excuse Generator CLI (in python)
+<!--hide-->
+# The Excuse Generator CLI (in python)
+<!--endhide-->
 
 Disneyland for procrastinators and lazy people. 
 
-This project is ideal to are avoiding someone annoying, it takes no more than 20 lines of code and it can save you for the rest of your life!
+This project is ideal to are avoiding someone annoying, it takes no more than 20 lines of code, and it can save you for the rest of your life!
 
 ![this exact same picture](https://github.com/breatheco-de/exercise-excuse-generator-python-cli/blob/master/preview.gif?raw=true)
 
@@ -12,11 +14,11 @@ We wanted a project that used very little Python but still with a very fun appli
 
 ## Instructions
 
-Please create a python script  that generates an excuse each time it is runned.
+Please create a python script that generates an excuse each time it is runned.
 
 ## Discuss with your classmates the strategy first
 
-How can we generate an excuse? How are sentences build?
+How can we generate an excuse? How are sentences built?
 
 ![Excuse generator explanation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/explanation.gif?raw=true)
 
@@ -30,7 +32,7 @@ Do not clone this repository.
 
 a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
 
-b) If working locally type the following command from your command line: 
+b) If working locally, type the following command from your command line: 
 ```sh
 git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
 ````
@@ -39,11 +41,11 @@ git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
 $ python3 app.py
 ```
 
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit`, and `push`.
 
 ## Hint
 
-1. Create a `app.py` file with one excuse hard-coded in one variable.
+1. Create an `app.py` file with one excuse hard-coded in one variable.
 2. The excuse must be in a variable:
 ```python
 excuse = 'The dog eat my homework when I finished'
@@ -54,7 +56,7 @@ who = ['the dog','my granma','his turtle','my bird']
 what = ['eat','pissed','crushed','broked']
 when = ['before the class','right in time','when I finished','during my lunch','while I was praying']
 ```
-4. To create a consistent excuse you have to concatenate one item from each array in the proper order.
+4. To create a consistent excuse, you have to concatenate one item from each array in the proper order.
 5. Print the excuse on the console using the `print` function.
 
 
