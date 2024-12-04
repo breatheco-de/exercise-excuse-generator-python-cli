@@ -24,6 +24,8 @@ How can we generate an excuse? How are sentences built?
 
 The idea is to generate each part of the sentence randomly to come up with great excuses!
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
 Do not clone this repository.
@@ -42,6 +44,8 @@ $ python3 app.py
 ```
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit`, and `push`.
+
+</onlyfor>
 
 ## Hint
 
