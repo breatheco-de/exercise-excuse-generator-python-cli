@@ -24,7 +24,8 @@ Cree un script de Python que genere una excusa cada vez que se ejecute.
 
 ¡La idea es generar cada parte de la oración al azar para encontrar excelentes excusas!
 
-
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar este proyecto
 
 
@@ -44,6 +45,8 @@ $ python3 app.py
 ```
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## Pista
 
