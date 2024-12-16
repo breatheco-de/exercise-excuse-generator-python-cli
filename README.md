@@ -28,17 +28,18 @@ The idea is to generate each part of the sentence randomly to come up with great
   
 ## 🌱  How to start this project
 
-Do not clone this repository.
+Do not clone this repository because we are going to be using a different template.
 
-1. The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) on your local computer or gitpod.
+We recommend opening the `python boilerplate`, using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://4geeks.com/how-to/github-clone-repository) on your local computer using the `git clone` command.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
+This is the repository you need to open or clone:
 
-b) If working locally, type the following command from your command line: 
 ```sh
-git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
-````
-2. Run the app by typing on the terminal:
+$ git clone https://github.com/4GeeksAcademy/flask-rest-hello
+```
+
+Then, Run the app by typing on the terminal:
+   
 ```bash
 $ python3 app.py
 ```
