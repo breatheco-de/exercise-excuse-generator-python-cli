@@ -30,12 +30,12 @@ The idea is to generate each part of the sentence randomly to come up with great
 
 Do not clone this repository because we are going to be using a different template.
 
-We recommend opening the `python boilerplate`, using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://4geeks.com/how-to/github-clone-repository) on your local computer using the `git clone` command.
+We recommend opening the `python boilerplate`, using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://github.com/4GeeksAcademy/python-hello) on your local computer using the `git clone` command.
 
 This is the repository you need to open or clone:
 
 ```sh
-$ git clone https://github.com/4GeeksAcademy/flask-rest-hello
+$ git clone https://github.com/4GeeksAcademy/python-hello
 ```
 
 Then, Run the app by typing on the terminal:
