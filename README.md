@@ -24,24 +24,29 @@ How can we generate an excuse? How are sentences built?
 
 The idea is to generate each part of the sentence randomly to come up with great excuses!
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
-Do not clone this repository.
+Do not clone this repository because we are going to be using a different template.
 
-1. The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) on your local computer or gitpod.
+We recommend opening the `python boilerplate`, using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://github.com/4GeeksAcademy/python-hello) on your local computer using the `git clone` command.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
+This is the repository you need to open or clone:
 
-b) If working locally, type the following command from your command line: 
 ```sh
-git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
-````
-2. Run the app by typing on the terminal:
+$ git clone https://github.com/4GeeksAcademy/python-hello
+```
+
+Then, Run the app by typing on the terminal:
+   
 ```bash
-$ python3 app.py
+$ python3 main.py
 ```
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit`, and `push`.
+
+</onlyfor>
 
 ## Hint
 

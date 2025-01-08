@@ -24,26 +24,29 @@ Cree un script de Python que genere una excusa cada vez que se ejecute.
 
 ¡La idea es generar cada parte de la oración al azar para encontrar excelentes excusas!
 
-
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar este proyecto
 
+No clones este repositorio porque usaremos una plantilla diferente.  
 
-1. No clones este repositorio. El primer paso para comenzar a codificar es clonar el [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) en tu compjutador local o con Gitpod.
+Recomendamos abrir la el `Python boilerplate`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes [clonar el repositorio de GitHub](https://github.com/4GeeksAcademy/python-hello) en tu computadora local utilizando el comando `git clone`.  
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/flask-rest-hello).
+Este es el repositorio que necesitas abrir o clonar:  
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
 ```sh
-git clone  git clone https://github.com/4GeeksAcademy/flask-rest-hello
+$ git clone https://github.com/4GeeksAcademy/python-hello
 ```
 
-2. Ejecuta la aplicación escribiendo en la terminal:
+Luego, ejecuta la aplicación escribiendo en la terminal:
 
 ```bash
-$ python3 app.py
+$ python3 main.py
 ```
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## Pista
 
@@ -60,7 +63,6 @@ when = ['before the class','right in time','when I finished','during my lunch','
 ```
 4. Para crear una excusa consistente tienes que concatenar un ítem por cada array en el orden correcto.
 5. Imprime la excusa en la consola usando la función `print`
-
 
 ## Tecnologías
 
