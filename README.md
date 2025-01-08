@@ -41,7 +41,7 @@ $ git clone https://github.com/4GeeksAcademy/python-hello
 Then, Run the app by typing on the terminal:
    
 ```bash
-$ python3 app.py
+$ python3 main.py
 ```
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit`, and `push`.
