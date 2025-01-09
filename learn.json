@@ -1,17 +1,28 @@
 {
-	"title" : "The Excuse Generator CLI (python)",
+	"title" : {
+		"es": "El Generador de Excusas CLI (python)",
+		"us": "The Excuse Generator CLI (python)"
+	},
 	"slug" : "excuse-generator-python-cli",
-	"status": "draft",
 	"preview": "https://github.com/breatheco-de/exercise-excuse-generator-python-cli/blob/master/preview.gif?raw=true",
 	"duration" : 4,
 	"template_url": "https://github.com/4GeeksAcademy/python-hello",
     "difficulty": "beginner",
-	"description" : "Disneyland for procrastinators. This excuse generator in python takes no more than 20 lines of code and can save you for the rest of your life!",
+	"description": {
+		"es": "Disneyland para procrastinadores. Este generador de excusas en python no toma más de 20 líneas de código y puede salvarte por el resto de tu vida! Usaremos tecnologías como Python y después de completar el ejercicio, el estudiante sabrá cómo generar excusas aleatorias utilizando estructuras básicas de Python.",
+		"us": "Disneyland for procrastinators. This excuse generator in python takes no more than 20 lines of code and can save you for the rest of your life! We will be using technologies such as Python and after completing the exercise, the student will know how to generate random excuses using basic Python structures."
+	},
     "solution": "https://github.com/breatheco-de/exercise-excuse-generator-python-cli/tree/solution",
 	"talents": [
 		{ "badge": "identator", "points": 6 },
 		{ "badge": "abc", "points": 5 },
 		{ "badge": "functional-developer", "points": 5 }
+	],
+	"technologies": [
+		"Python",
+		"terminal",
+		"command-line",
+		"cli"
 	],
     "autoPlay": false,
     "projectType": "project"
